@@ -3,6 +3,8 @@ import lxml.html as html
 import os
 import datetime
 
+""" XD """
+
 
 HOME_URL = 'https://www.larepublica.co/'
 
